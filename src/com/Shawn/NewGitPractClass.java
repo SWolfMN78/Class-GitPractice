@@ -1,7 +1,7 @@
 package com.Shawn;
 
 /**
- * Created by Wolfknightx on 2/18/2016.
+ * updated information to the below call class.
  */
 public class NewGitPractClass {
     public  void roar(){
