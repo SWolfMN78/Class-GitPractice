@@ -13,5 +13,6 @@ public class Main {
         velociraptor.sup(); //this is another example of calling the class and pulling a new sub function.
         mander.reh();
         mander.sup();
+        velociraptor.roar();
     }
 }
